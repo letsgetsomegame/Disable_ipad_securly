@@ -1,4 +1,4 @@
-How to disable securly on an ipad!!!!!
+How to disable securly, goguardian, and more on an ipad!!!!!
 
 
 step one: open settings, and got to wifi, and click on the i with a circle, for whatever wifi you are on.   (This exploit has to be done manully on every network)
